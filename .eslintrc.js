@@ -32,7 +32,6 @@ module.exports = {
     },
 	"globals": {
         "global": false,
-        "logger": false,
         "require": false,
         "VERSION": false,
         "BRANCH": false,
